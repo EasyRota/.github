@@ -62,7 +62,7 @@ A equipe é composta por:
 
 > Este repositório e toda a documentação associada fazem parte de um **projeto acadêmico fictício**,
 > desenvolvido exclusivamente para fins educacionais no contexto da disciplina
-> **EXA613 — Módulo Integrador (MI)** do curso de **Engenharia de Software**,
+> **EXA613 — Módulo Integrador (MI) de Engenharia de Software** do curso de **Engenharia da Computação**,
 > utilizando a metodologia **Project-Based Learning (PBL)**.
 >
 > A empresa **EasyRota** não existe como pessoa jurídica.
