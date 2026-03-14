@@ -36,7 +36,7 @@ monitoramento de quórum em tempo real e notificações automáticas.
 > ⚠️ **Aviso importante:** O acordo descrito abaixo é **inteiramente fictício** e existe apenas para fins educacionais.
 > A Uninfra não possui qualquer vínculo real, contratual ou institucional com este projeto.
 
-No escopo deste projeto, a organização operadora simulada é a **[Uninfra](https://uninfra.com.br)**, 
+No escopo deste projeto, a organização operadora simulada é a **[Uninfra](https://www.uefs.br/modules/conteudo/conteudo.php?conteudo=94)**, 
 empresa de infraestrutura e transporte com atuação na região. 
 A parceria fictícia envolve a integração do sistema de quórum da EasyRota com os processos operacionais de uma linha intermunicipal 
 que atende uma universidade pública baiana.
