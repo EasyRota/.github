@@ -4,8 +4,6 @@
 
 Plataforma de gestão de quórum para transporte intermunicipal universitário.
 
----
-
 ## Sobre o projeto
 
 A **EasyRota** é uma aplicação web voltada à gestão de confirmações de presença e controle de quórum 
@@ -19,8 +17,6 @@ cancelamentos de última hora e falhas de comunicação que prejudicam toda a ro
 A EasyRota resolve isso com uma plataforma dedicada para confirmação de presença, 
 monitoramento de quórum em tempo real e notificações automáticas.
 
----
-
 ## Funcionalidades
 
 - **Confirmação de presença digital** — passageiros confirmam ou cancelam com antecedência via plataforma, sem depender de grupos de mensagem
@@ -28,16 +24,12 @@ monitoramento de quórum em tempo real e notificações automáticas.
 - **Notificações automáticas** — alertas de quórum atingido, cancelamento ou mudança de horário, sem intermediários
 - **Histórico e relatórios de uso** — dados de adesão por rota para planejamento operacional e tomada de decisão
 
----
-
 ## Público-alvo
 
 | Perfil | Descrição |
 |---|---|
 | **Usuários finais** | Estudantes e professores universitários residentes em cidades sem campus local |
 | **Operadores** | Empresas de fretamento, prefeituras e cooperativas de transporte intermunicipal |
-
----
 
 ## Contexto operacional (fictício)
 
@@ -48,8 +40,6 @@ No escopo deste projeto, a organização operadora simulada é a **[Uninfra](htt
 empresa de infraestrutura e transporte com atuação na região. 
 A parceria fictícia envolve a integração do sistema de quórum da EasyRota com os processos operacionais de uma linha intermunicipal 
 que atende uma universidade pública baiana.
-
----
 
 ## Time
 
@@ -67,8 +57,6 @@ A equipe é composta por:
 - Matheus Coelho
 - Paulo Henrique
 - Tiago Moura
-
----
 
 ## ⚠️ Aviso — Empresa e projeto fictícios
 
