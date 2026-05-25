@@ -51,7 +51,7 @@ A equipe é composta por:
 - Everton
 - Guilherme Moreira
 - Jefferson
-- João Assunção
+- João Anunciação
 - Lucas Damasceno
 - Luiz Sena
 - Matheus Coelho
